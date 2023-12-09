@@ -1,21 +1,26 @@
-# Herison Pereira 👋
+## Olá 👋
+# Me chamo Herison Pereira 
 
-Desenvolvedor front-end em construção, rumo ao full stack.
+Com 10 anos de experiência, transitando da comunicação e design para o universo do desenvolvimento front-end, trago experiência prévia em web design e construção de sites com WordPress.
 
-### 💡 Aprendendo
+Sempre movido pela paixão pela tecnologia, tenho habilidades em HTML5, CSS3 e JavaScript, e estou me especializando em todo o ecossistema front-end de React e Next.js. Altamente comprometido com o desenvolvimento de interfaces web inovadoras e código limpo, almejando contribuir ativamente para o crescimento de empresas por meio de soluções web eficientes, utilizando toda minha bagagem como web designer.
 
-- Prisma
-- Node
-- NextAuth
+Atualmente faço parte do Bootcamp de desenvolvimento web da <a href="https://tripleten.com">TripleTen Brasil</a>, que é um curso de dez meses com foco em front-end. Abrange assuntos como HTML, CSS, JavaScript, responsividade, React, Node.js, metodologia BEM, habilidades sociais e muito mais, e envolve a conclusão de mais de 10 projetos com base nas melhores práticas front-end do mercado.
 
-### 🧠 Outras tecnologias
+### 💡 Minhas Tecnologias
+Git • GitHub • HTML • CSS • Javascript • Typescript • React • Vite • Next.js • Tailwindcss • Styled-Components • Prisma • Mongodb • Supabase • Node • NextAuth
 
-- HTML
-- CSS
-- Javascript
-- React
-- Next.js
-- Tailwindcss
+[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,ts,react,vite,nextjs,tailwind,styledcomponents,prisma,mongodb,supabase,nodejs,&perline=8)](https://skillicons.dev)
+
+### 🧠 Próximos estudos
+- Testes unitários
+- MySQL
+
+### 💻 Ferramentas do meu dia-a-dia
+- Visual Studio Code
+- Figma
+- Adobe Photoshop
+- Notion
 
 ## Contato
 
